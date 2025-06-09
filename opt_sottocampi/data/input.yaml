@@ -1,0 +1,192 @@
+units:
+
+  # Zona Bellinzonese
+  - name: S.Antonino-ClaroDaro
+    reparti:
+      - name: S.Antonino
+        zone: BEL
+        participants: 7
+        forest_req: 5
+      - name: Claro-Daro
+        zone: BEL
+        participants: 20
+        forest_req: 5
+
+  - name: Biasca
+    reparti:
+      - name: Biasca
+        zone: BEL
+        participants: 15
+        forest_req: 0
+
+  - name: Giubiasco
+    reparti:
+      - name: Giubiasco
+        zone: BEL
+        participants: 30
+        forest_req: 0
+
+  - name: Faido
+    reparti:
+      - name: Faido
+        zone: BEL
+        participants: 25
+        forest_req: 0
+
+  - name: Bellinzona-Moesano
+    reparti:
+      - name: Bellinzona
+        zone: BEL
+        participants: 22
+        forest_req: 5
+      - name: Moesano
+        zone: BEL
+        participants: 7
+        forest_req: 5
+
+# Zona Locarnese
+  - name: Gambarogno
+    reparti:
+      - name: Gambarogno
+        zone: LOC
+        participants: 9
+        forest_req: 0
+
+  - name: TeneroGordola
+    reparti:
+      - name: Tenero-Gordola
+        zone: LOC
+        participants: 12
+        forest_req: 0
+
+  - name: Vallemaggia
+    reparti:
+      - name: Vallemaggia
+        zone: LOC
+        participants: 35
+        forest_req: 0
+
+  - name: BrigataLocarno
+    reparti:
+      - name: BrigataLocarno
+        zone: LOC
+        participants: 25
+        forest_req: 15
+
+  # Zona Mendrisiotto
+  - name: SanGiorgio
+    reparti:
+      - name: SanGiorgio
+        zone: MEN
+        participants: 12
+        forest_req: 5
+
+  - name: Arogno
+    reparti:
+      - name: Arogno
+        zone: MEN
+        participants: 20
+        forest_req: 0
+
+  - name: CastelSanPietro
+    reparti:
+      - name: CastelSanPietro
+        zone: MEN
+        participants: 25
+        forest_req: 0
+
+  - name: Balerna
+    reparti:
+      - name: Balerna
+        zone: MEN
+        participants: 22
+        forest_req: 0
+
+  - name: Mendrisio
+    reparti:
+      - name: Mendrisio
+        zone: MEN
+        participants: 20
+        forest_req: 10
+
+  # Zona Luganese
+  - name: Mediovedeggio
+    reparti:
+      - name: Mediovedeggio
+        zone: LUG
+        participants: 25
+        forest_req: 0
+
+  - name: Breganzona
+    reparti:
+      - name: Breganzona
+        zone: LUG
+        participants: 16
+        forest_req: 5
+
+  - name: Tesserete
+    reparti:
+      - name: Tesserete
+        zone: LUG
+        participants: 35
+        forest_req: 0
+
+  - name: Massagno
+    reparti:
+      - name: Massagno
+        zone: LUG
+        participants: 35
+        forest_req: 15
+
+  - name: Canobbio
+    reparti:
+      - name: Canobbio
+        zone: LUG
+        participants: 10
+        forest_req: 0
+
+  - name: LaFenice
+    reparti:
+      - name: LaFenice
+        zone: LUG
+        participants: 18
+        forest_req: 0
+
+  - name: Viganello
+    reparti:
+      - name: Viganello
+        zone: LUG
+        participants: 30
+        forest_req: 0
+
+  - name: Agno
+    reparti:
+      - name: Agno
+        zone: LUG
+        participants: 15
+        forest_req: 0
+
+  - name: Caslano
+    reparti:
+      - name: Caslano
+        zone: LUG
+        participants: 7
+        forest_req: 0
+
+  - name: Lugano
+    reparti:
+      - name: Lugano
+        zone: LUG
+        participants: 30
+        forest_req: 0
+    
+
+sottocampi:
+  - name: HDX
+    forest_slots: 25
+  - name: HSX
+    forest_slots: 30
+  - name: LDX
+    forest_slots: 15
+  - name: LSX
+    forest_slots: 0

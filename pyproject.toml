@@ -1,0 +1,11 @@
+[project]
+name = "cc26-optimization"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pulp>=3.2.1",
+    "pydantic>=2.11.5",
+    "pyyaml>=6.0.2",
+]
